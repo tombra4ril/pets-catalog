@@ -1,0 +1,4 @@
+#Robots file
+User-Agents: *
+
+Disallow: /

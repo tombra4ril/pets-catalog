@@ -1,0 +1,87 @@
+/*Style for everything*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+}
+
+#main-wrapper{
+	padding: 10px;
+}
+
+/*header*/
+header{
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #ddd;
+	border: 1px #ddd solid;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+/*footer*/
+footer{
+	text-align: center;
+	background-color: #ddd;
+	border: 1px #ddd solid;
+	border-radius: 10px;
+	padding-bottom: 5px
+	margin-top: 20px;
+}
+
+/*section*/
+section{
+	margin: 20px;
+}
+form{
+	margin-bottom: 10px;
+}
+#old-category{
+	margin-bottom: 20px;
+}
+/*Style the categories gotten from the database*/
+.old-input{
+	display: inline-block;
+	margin-right: 5px;
+}
+.old-label{
+	display: inline-block;
+	margin-right: 20px;
+}
+/*style the new category if shown*/
+#new-category{
+	margin-bottom: 20px;
+}
+#new-category fieldset{
+	padding: 15px;
+	display: none;
+}
+legend{
+	padding: 0px 2px 0 2px;
+}
+.fWidth{
+	display: inline-block;
+	width: 120px;
+	margin-bottom: 10px;
+}
+/*Style the pet information*/
+#pet-desc fieldset{
+	padding: 10px;
+	margin-bottom: 20px
+}
+/*Style the buttons*/
+#buttons{
+	padding: 0 20px 0 20px;
+}
+
+#buttons button{
+	display: inline-block;
+	padding: 5px 10px 5px 10px;
+	margin-right: 20px;
+}
+a{
+	margin-right: 20px;
+}

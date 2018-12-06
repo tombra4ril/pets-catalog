@@ -1,0 +1,4 @@
+1	Pekinese	Dog	100	Small, cute, energetic. Good alarm system.	peke.jpg
+	House cat	Cat	20	Yellow and white cat. Extremely playful.	catyellow.jpg
+	House cat	Cat 	20	Black cat. Sleek, shiny. Likes children.	catblack.jpg
+	Aquarius	Sealions	2000	Sleek. Beautiful and lazy.	sealions.jpg

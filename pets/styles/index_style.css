@@ -1,0 +1,43 @@
+/*whole document*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+/*style for the body and its container*/
+body{
+	padding: 10px;
+}
+
+#main-wrapper{
+	margin: auto;
+	text-align: center;
+	width: 900px;
+	margin: auto;
+}
+
+/*header style*/
+header{
+	text-align: inherit;
+	border-radius: 5px;
+	margin-bottom: 50px;
+	background-color: #ddd;
+}
+
+header h1{
+	text-transform: uppercase;
+}
+
+/*Section style*/
+section{
+	margin-top: 50px;
+}
+
+article img{
+	border-radius: 5px;
+}
+
+article p{
+	margin-bottom: 20px;
+}

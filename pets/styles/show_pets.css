@@ -1,0 +1,26 @@
+#show{
+	background-color: #ddd;
+}
+#button-reload img{
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+}
+#button-reload{
+	padding: 0px;
+	margin: 0px;
+	background-color: #ddd;
+	border-radius: 0px;
+}
+.count{
+	background-color: #ddd;
+	padding: 5px;
+	display: inline-block;
+	margin-right: 20px;
+}
+.option{
+	/*background-color: #ddd;*/
+}
+.make-bold{
+	font-weight: bold;
+}
